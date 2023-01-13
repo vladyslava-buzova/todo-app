@@ -5,7 +5,7 @@
 It's a list of tasks you need to complete or things you want to do.
 It will help you to be organized and focused.
 
-# Technologies:
+# Technologies
 The todo-list app is written in pure JavaScript.
 (JavaScript, HTML, CSS)
 
