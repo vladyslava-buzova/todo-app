@@ -1,4 +1,5 @@
-# Todo App
+# ToDo list application
+- [DEMO LINK](https://vladyslava-buzova.github.io/<repo_name>/)
 
 # What is it?
 It's a list of tasks you need to complete or things you want to do.
@@ -14,9 +15,6 @@ The todo-list app is written in pure JavaScript.
 3. Filtering by parameters: show all/ avtive/ completed.
 4. Counter of number of not completed todos.
 5. Toggle the completed status of all the todos with the 'toggleAll' checkbox.
-
-# ToDo list application
-- [DEMO LINK](https://vladyslava-buzova.github.io/<repo_name>/)
 
 # How to lounch a project
 1. Open the project on Github and Fork the repo.
