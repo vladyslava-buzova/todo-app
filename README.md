@@ -19,9 +19,9 @@ The todo-list app is written in pure JavaScript.
 - [DEMO LINK](https://vladyslava-buzova.github.io/<repo_name>/)
 
 # How to lounch a project.
-1. Open the project on Github and Fork the repo.
-2. Clone the forked repo
+1. Clone the repo.
   - git clone the-link-from-your-forked-repo.
+2. Chech your Node.js version (Recommended Node.js 14 to run the project corectry)
 3. Run VSCode and open the project folder.
 4. Open a terminal in the project folder.
 5. Run npm install (or just npm i) to install the dependencies.
