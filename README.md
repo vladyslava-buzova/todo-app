@@ -22,6 +22,7 @@ The todo-list app is written in pure JavaScript.
 1. Clone the repo.
   - git clone the-link-from-your-forked-repo.
 2. Chech your Node.js version (Recommended Node.js 14 to run the project corectry)
+  - node -v
 3. Run VSCode and open the project folder.
 4. Open a terminal in the project folder.
 5. Run npm install (or just npm i) to install the dependencies.
