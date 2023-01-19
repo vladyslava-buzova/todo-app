@@ -1,5 +1,5 @@
 # ToDo list application
-- [DEMO LINK](https://vladyslava-buzova.github.io/<repo_name>/)
+- [DEMO LINK](https://vladyslava-buzova.github.io/todo-app/)
 
 # What is it?
 It's a list of tasks you need to complete or things you want to do.
@@ -16,7 +16,7 @@ The todo-list app is written in pure JavaScript.
 4. Counter of number of not completed todos.
 5. Toggle the completed status of all the todos with the 'toggleAll' checkbox.
 
-# How to lounch a project.
+# How to launch a project.
 1. Clone the repo.
   - git clone the-link-from-your-forked-repo.
 2. Chech your Node.js version (Recommended Node.js 14 to run the project corectry)
